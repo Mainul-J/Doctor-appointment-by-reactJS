@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "doctorImage": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d",
+    "name": "Dr. Ahmed Rahman",
+    "education": "MBBS, FCPS (Medicine)",
+    "speciality": "Internal Medicine",
+    "experience": "12 Years",
+    "registrationNumber": "BMDC-102345"
+  },
+  {
+    "id": 2,
+    "doctorImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2",
+    "name": "Dr. Nusrat Jahan",
+    "education": "MBBS, FCPS (Gynae & Obs)",
+    "speciality": "Gynecology & Obstetrics",
+    "experience": "10 Years",
+    "registrationNumber": "BMDC-102346"
+  },
+  {
+    "id": 3,
+    "doctorImage": "https://images.unsplash.com/photo-1594824476967-48c8b964273f",
+    "name": "Dr. Farhan Karim",
+    "education": "MBBS, MD (Cardiology)",
+    "speciality": "Cardiology",
+    "experience": "15 Years",
+    "registrationNumber": "BMDC-102347"
+  },
+  {
+    "id": 4,
+    "doctorImage": "https://images.unsplash.com/photo-1582750433449-648ed127bb54",
+    "name": "Dr. Sadia Akter",
+    "education": "MBBS, FCPS (Pediatrics)",
+    "speciality": "Pediatrics",
+    "experience": "8 Years",
+    "registrationNumber": "BMDC-102348"
+  },
+  {
+    "id": 5,
+    "doctorImage": "https://images.unsplash.com/photo-1622253692010-333f2da6031d",
+    "name": "Dr. Tanvir Hasan",
+    "education": "MBBS, MS (Orthopedics)",
+    "speciality": "Orthopedic Surgery",
+    "experience": "14 Years",
+    "registrationNumber": "BMDC-102349"
+  },
+  {
+    "id": 6,
+    "doctorImage": "https://images.unsplash.com/photo-1618498082410-b4aa22193b38",
+    "name": "Dr. Maria Sultana",
+    "education": "MBBS, MD (Dermatology)",
+    "speciality": "Dermatology",
+    "experience": "9 Years",
+    "registrationNumber": "BMDC-102350"
+  },
+  {
+    "id": 7,
+    "doctorImage": "https://images.unsplash.com/photo-1537368910025-700350fe46c7",
+    "name": "Dr. Imran Hossain",
+    "education": "MBBS, FCPS (Surgery)",
+    "speciality": "General Surgery",
+    "experience": "16 Years",
+    "registrationNumber": "BMDC-102351"
+  },
+  {
+    "id": 8,
+    "doctorImage": "https://images.unsplash.com/photo-1551601651-2a8555f1a136",
+    "name": "Dr. Rafia Chowdhury",
+    "education": "MBBS, MD (Neurology)",
+    "speciality": "Neurology",
+    "experience": "11 Years",
+    "registrationNumber": "BMDC-102352"
+  },
+  {
+    "id": 9,
+    "doctorImage": "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47",
+    "name": "Dr. Mahmudul Islam",
+    "education": "MBBS, FCPS (ENT)",
+    "speciality": "ENT & Head-Neck Surgery",
+    "experience": "13 Years",
+    "registrationNumber": "BMDC-102353"
+  },
+  {
+    "id": 10,
+    "doctorImage": "https://images.unsplash.com/photo-1643297654419-7d0e7e2f2a5d",
+    "name": "Dr. Samia Rahman",
+    "education": "MBBS, FCPS (Ophthalmology)",
+    "speciality": "Ophthalmology",
+    "experience": "7 Years",
+    "registrationNumber": "BMDC-102354"
+  },
+  {
+    "id": 11,
+    "doctorImage": "https://images.unsplash.com/photo-1584515933487-779824d29309",
+    "name": "Dr. Rezaul Karim",
+    "education": "MBBS, MD (Psychiatry)",
+    "speciality": "Psychiatry",
+    "experience": "12 Years",
+    "registrationNumber": "BMDC-102355"
+  },
+  {
+    "id": 12,
+    "doctorImage": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d",
+    "name": "Dr. Tania Ahmed",
+    "education": "MBBS, MD (Endocrinology)",
+    "speciality": "Endocrinology",
+    "experience": "10 Years",
+    "registrationNumber": "BMDC-102356"
+  },
+  {
+    "id": 13,
+    "doctorImage": "https://images.unsplash.com/photo-1527613426441-4da17471b66d",
+    "name": "Dr. Saif Hasan",
+    "education": "MBBS, FCPS (Pulmonology)",
+    "speciality": "Pulmonology",
+    "experience": "15 Years",
+    "registrationNumber": "BMDC-102357"
+  },
+  {
+    "id": 14,
+    "doctorImage": "https://images.unsplash.com/photo-1598256989800-fe5f95da9787",
+    "name": "Dr. Faria Islam",
+    "education": "MBBS, MS (Urology)",
+    "speciality": "Urology",
+    "experience": "9 Years",
+    "registrationNumber": "BMDC-102358"
+  },
+  {
+    "id": 15,
+    "doctorImage": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c",
+    "name": "Dr. Arif Hossain",
+    "education": "MBBS, MD (Gastroenterology)",
+    "speciality": "Gastroenterology",
+    "experience": "13 Years",
+    "registrationNumber": "BMDC-102359"
+  },
+  {
+    "id": 16,
+    "doctorImage": "https://images.unsplash.com/photo-1622902046580-2b47f47f5471",
+    "name": "Dr. Sharmeen Akter",
+    "education": "MBBS, FCPS (Oncology)",
+    "speciality": "Medical Oncology",
+    "experience": "11 Years",
+    "registrationNumber": "BMDC-102360"
+  }
+]
