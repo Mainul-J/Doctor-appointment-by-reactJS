@@ -1,15 +1,13 @@
-import { useEffect, useState } from "react";
+
 
 
 const Card = ({doc}) => {
-    
-console.log(doc);
     const {name,education,speciality,experience,registrationNumber,doctorImage} = doc
     return (
         <div>
             <div className="card shadow-sm">
                 {/* {
-    "id": 1, 
+    "id": 1,
     "doctorImage": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d",
     "name": "Dr. Ahmed Rahman",
     "education": "MBBS, FCPS (Medicine)",
@@ -30,7 +28,7 @@ console.log(doc);
     <div>
         <h2 className="card-title">{name}</h2>
         <h2 className="text-[#908d8d]">{speciality}</h2>
-        <h2 className="text-[#908d8d]">Reg No:    ddd{registrationNumber}</h2>
+        <h2 className="text-[#908d8d]">Reg No:{registrationNumber}</h2>
     </div>
     <button className="btn rounded-3xl text-blue-500 w-full">View Details</button>
   </div>
