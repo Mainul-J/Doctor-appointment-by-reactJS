@@ -31,7 +31,9 @@ const Cards = ({ data }) => {
       </div>
       <div className="py-3 flex justify-center">
         <button onClick={()=>setShowAll(prv=>!prv)} className="btn btn-primary rounded-3xl shadow-2xl">
-          View All Doctors
+          {
+            showAll?'show less':'View All Doctor'
+          }
         </button>
       </div>
     </div>

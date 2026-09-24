@@ -13,7 +13,6 @@ const CountUp = CountUpModule.default;
 
 const Home = () => {
   const data = useLoaderData();
-  console.log(CountUp);
   return (
     <>
       {/* // banner ; */}
@@ -37,9 +36,9 @@ const Home = () => {
               </div>
               {/* button */}
               <div className="flex pb-5 justify-center">
-                <input className="input" type="text" />
+                <input className="input rounded-2xl" placeholder="Search Doctor's" type="text" />
                 <button
-                  className="btn ml-2 bg-green-300 rounded-3xl shadow-xl"
+                  className="btn ml-2 bg-green-500 text-white rounded-3xl shadow-xl"
                   type="submit"
                 >
                   Search

@@ -1,8 +1,13 @@
+import { Link, useNavigate } from "react-router";
 
 
 
 const Card = ({doc}) => {
-    const {name,education,speciality,experience,registrationNumber,doctorImage} = doc
+    const {name,education,speciality,experience,registrationNumber,doctorImage,id} = doc;
+    const navigate = useNavigate()
+    const handelDetailsBtn = (id) =>{
+         navigate(`/details/${id}`)
+    }
     return (
         <div>
             <div className="card shadow-sm">
@@ -30,7 +35,7 @@ const Card = ({doc}) => {
         <h2 className="text-[#908d8d]">{speciality}</h2>
         <h2 className="text-[#908d8d]">Reg No:{registrationNumber}</h2>
     </div>
-    <button className="btn rounded-3xl text-blue-500 w-full">View Details</button>
+    <button onClick={()=>handelDetailsBtn(id)} className="btn rounded-3xl text-blue-500 w-full">View Details</button>
   </div>
 </div>
         </div>
